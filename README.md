@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mithun010
-- 👀 I’m interested in DATA
-- 🌱 I’m currently learning DATA ANALYTICS
-- 💞️ I’m looking to collaborate on DATA SCIENCE PROJECCT
+- 👀 I’m interested in Devops
+- 🌱 I’m currently learning DEvops
+- 💞️ I’m looking to collaborate on Devops ci/cd projects
 - 📫 How to reach me mithunsingh375@gmail.com , or call 8210146223
 
 <!---
